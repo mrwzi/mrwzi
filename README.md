@@ -6,7 +6,12 @@
 <br><br>
 
 <h3><code>mahan@github ~ $ whoami</code></h3>
-<img src="./whoami.svg" width="860" alt="ASCII portrait and info card" />
+
+<img src="./avi-ascii.svg" width="360" alt="ASCII portrait" />
+
+<br><br>
+
+<img src="./info-card.svg" width="620" alt="Profile info card" />
 
 <br>
 
